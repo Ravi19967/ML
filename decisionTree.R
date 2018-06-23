@@ -3,10 +3,7 @@
 #            Decision Tree for Regression                     #
 #                                                             #
 ###############################################################
-#                                                             #
-# Credit: Dr. Prashant Singh Rana                             #
-# Email : psrana@gmail.com                                    #
-# Web   : www.psrana.com                                      #
+#                                                             #                               #
 #                                                             #
 ###############################################################
 #                                                             #
